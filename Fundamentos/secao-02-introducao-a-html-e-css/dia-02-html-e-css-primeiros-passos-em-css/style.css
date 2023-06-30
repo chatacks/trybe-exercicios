@@ -1,0 +1,27 @@
+        body {
+            font-size: 16px;
+            font-style: italic;
+            text-align: justify;
+            text-decoration: underline;
+        }
+
+        h1 {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        p {
+            font-weight: 600;
+            font-size: 3em;
+        }
+
+        .amarelo {
+            background-color: #ffff00;
+        }
+
+        .vermelho {
+            background-color: #ff0000;
+        }
+
+        .marrom {
+            background-color: #a52a2a;
+        }
